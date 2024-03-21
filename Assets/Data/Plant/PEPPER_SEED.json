@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "TOMATO_SEED",
+      "ONION_SEED"
+    ]
+  },
+  "ResultFoodId": "PEPPER",
+  "GrowthTime": 15,
+  "Rarity": 2,
+  "Type": 1,
+  "Id": "PEPPER_SEED",
+  "Name": "Bell Pepper  Seed",
+  "Description": "A crisp and colorful vegetable with a mildly sweet flavor and a range of colors.",
+  "IconPath": "Assets/Sprites/SeedIcons/pepper_seed.png",
+  "Price": 2
+}

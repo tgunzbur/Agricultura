@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "RICE_FLOUR",
+      "WATER"
+    ]
+  },
+  "RecipeFurniture": "CUTTING_BOARD",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "RICE_NOODLE",
+  "Name": "Rice Noodle",
+  "Description": "A type of noodle made from rice flour",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/rice-noodles.png",
+  "Price": 3
+}

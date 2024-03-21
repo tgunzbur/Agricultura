@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "WHEAT",
+      "WHEAT"
+    ]
+  },
+  "RecipeFurniture": "MIXER",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "FLOUR",
+  "Name": "Flour",
+  "Description": "Finely ground cereal grains or other starchy food sources",
+  "IconPath": "Assets/Sprites/FoodIcons/Ingredients/flour.png",
+  "Price": 1
+}

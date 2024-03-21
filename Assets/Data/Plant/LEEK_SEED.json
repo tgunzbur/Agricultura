@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "ONION_SEED",
+      "ASPARAGUS_SEED"
+    ]
+  },
+  "ResultFoodId": "LEEK",
+  "GrowthTime": 15,
+  "Rarity": 2,
+  "Type": 1,
+  "Id": "LEEK_SEED",
+  "Name": "Leek Seed",
+  "Description": "A mild and sweet-tasting member of the onion family with a long white stem and green leaves.",
+  "IconPath": "Assets/Sprites/SeedIcons/leek_seed.png",
+  "Price": 4
+}

@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "CARROT_SEED",
+      "POTATO_SEED"
+    ]
+  },
+  "ResultFoodId": "RADISH",
+  "GrowthTime": 15,
+  "Rarity": 1,
+  "Type": 1,
+  "Id": "RADISH_SEED",
+  "Name": "Radish Seed",
+  "Description": "A crisp and spicy root vegetable that comes in different shapes and colors.",
+  "IconPath": "Assets/Sprites/SeedIcons/radish_seed.png",
+  "Price": 2
+}

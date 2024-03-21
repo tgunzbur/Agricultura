@@ -1,0 +1,22 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "RISOTTO",
+      "BEEF",
+      "CARROT",
+      "PEAS",
+      "FLOUR"
+    ]
+  },
+  "RecipeFurniture": "PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "ARANCINI",
+  "Name": "Arancini",
+  "Description": "Arancini are deep-fried rice balls typically filled with cheese, meat, or vegetables.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/arancini.png",
+  "Price": 18
+}

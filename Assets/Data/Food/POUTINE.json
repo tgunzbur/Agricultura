@@ -1,0 +1,20 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "FRIES",
+      "BEEF_STOCK",
+      "CHEESE"
+    ]
+  },
+  "RecipeFurniture": "CUTTING_BOARD",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "POUTINE",
+  "Name": "Poutine",
+  "Description": "A Canadian dish made with french fries, gravy, and cheese curds",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/poutine.png",
+  "Price": 12
+}

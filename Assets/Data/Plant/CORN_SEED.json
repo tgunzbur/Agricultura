@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "WHEAT_SEED",
+      "ASPARAGUS_SEED"
+    ]
+  },
+  "ResultFoodId": "CORN",
+  "GrowthTime": 15,
+  "Rarity": 2,
+  "Type": 1,
+  "Id": "CORN_SEED",
+  "Name": "Corn Seed",
+  "Description": "A sweet and starchy vegetable with juicy kernels on a cob.",
+  "IconPath": "Assets/Sprites/SeedIcons/corn_seed.png",
+  "Price": 2
+}

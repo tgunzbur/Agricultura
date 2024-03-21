@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "PEPPER_SEED",
+      "RADISH_SEED"
+    ]
+  },
+  "ResultFoodId": "CHILLI_PEPPER",
+  "GrowthTime": 15,
+  "Rarity": 2,
+  "Type": 1,
+  "Id": "CHILLI_PEPPER_SEED",
+  "Name": "Chilli Pepper Seed",
+  "Description": "A spicy and flavorful fruit that comes in a variety of shapes, sizes, and levels of heat.",
+  "IconPath": "Assets/Sprites/SeedIcons/chilli_pepper_seed.png",
+  "Price": 3
+}

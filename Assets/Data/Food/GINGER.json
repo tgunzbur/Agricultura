@@ -1,0 +1,16 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "RecipeFurniture": "",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "GINGER",
+  "Name": "Ginger",
+  "Description": " A fragrant and spicy root that adds depth of flavor to dishes and is also used for medicinal purposes.",
+  "IconPath": "Assets/Sprites/FoodIcons/Vegtables/ginger.png",
+  "Price": 6
+}

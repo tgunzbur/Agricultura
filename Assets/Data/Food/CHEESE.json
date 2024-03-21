@@ -1,0 +1,16 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "RecipeFurniture": "",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "CHEESE",
+  "Name": "Cheese",
+  "Description": "Dairy product made from milk",
+  "IconPath": "Assets/Sprites/FoodIcons/Ingredients/cheese.png",
+  "Price": 3
+}

@@ -1,0 +1,16 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "ResultFoodId": "WHEAT",
+  "GrowthTime": 15,
+  "Rarity": 1,
+  "Type": 1,
+  "Id": "WHEAT_SEED",
+  "Name": "Wheat Seed",
+  "Description": "A nutritious cereal grain that is commonly used to make bread, pasta, and other food products.",
+  "IconPath": "Assets/Sprites/SeedIcons/wheat_seed.png",
+  "Price": 1
+}

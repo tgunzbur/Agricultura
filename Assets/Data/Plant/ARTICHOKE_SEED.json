@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "ASPARAGUS_SEED",
+      "POTATO_SEED"
+    ]
+  },
+  "ResultFoodId": "ARTICHOKE",
+  "GrowthTime": 15,
+  "Rarity": 3,
+  "Type": 1,
+  "Id": "ARTICHOKE_SEED",
+  "Name": "Artichoke Seed",
+  "Description": "A thistle-like vegetable with a tender heart and a slightly nutty flavor.",
+  "IconPath": "Assets/Sprites/SeedIcons/artichoke_seed.png",
+  "Price": 4
+}

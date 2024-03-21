@@ -1,0 +1,16 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "RecipeFurniture": "",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "PAKCHOI",
+  "Name": "Pakchoi",
+  "Description": "Also known as bok choy, a type of Chinese cabbage with dark green leaves and white stalks.",
+  "IconPath": "Assets/Sprites/FoodIcons/Vegtables/pak_choi.png",
+  "Price": 3
+}

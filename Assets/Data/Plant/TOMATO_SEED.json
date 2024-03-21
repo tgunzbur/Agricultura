@@ -1,0 +1,16 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "ResultFoodId": "TOMATO",
+  "GrowthTime": 15,
+  "Rarity": 1,
+  "Type": 1,
+  "Id": "TOMATO_SEED",
+  "Name": "Tomato Seed",
+  "Description": "A juicy and versatile fruit that comes in a variety of colors and is used in many dishes.",
+  "IconPath": "Assets/Sprites/SeedIcons/tomato_seed.png",
+  "Price": 1
+}

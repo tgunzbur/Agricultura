@@ -1,0 +1,21 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "POTATO",
+      "ONION",
+      "EGG",
+      "DOUGH"
+    ]
+  },
+  "RecipeFurniture": "PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "ROSTI",
+  "Name": "Rosti",
+  "Description": "a Swiss dish made with grated potatoes fried",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/rostis.png",
+  "Price": 6
+}

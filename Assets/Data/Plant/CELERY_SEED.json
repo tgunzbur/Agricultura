@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "LEEK_SEED",
+      "BROCCOLI_SEED"
+    ]
+  },
+  "ResultFoodId": "CELERY",
+  "GrowthTime": 15,
+  "Rarity": 4,
+  "Type": 1,
+  "Id": "CELERY_SEED",
+  "Name": "Celery Seed",
+  "Description": "A crunchy and refreshing vegetable with a mild flavor that is commonly used as a snack or in soups and stews.",
+  "IconPath": "Assets/Sprites/SeedIcons/celery_seed.png",
+  "Price": 3
+}

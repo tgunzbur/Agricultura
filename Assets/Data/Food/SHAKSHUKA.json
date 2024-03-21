@@ -1,0 +1,20 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "EGG",
+      "TOMATO_SAUCE",
+      "ONION"
+    ]
+  },
+  "RecipeFurniture": "SAUCE_PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "SHAKSHUKA",
+  "Name": "Shakshuka",
+  "Description": "a North African and Middle Eastern dish made with eggs poached in a tomato and vegetable sauce.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/shakshuka.png",
+  "Price": 9
+}

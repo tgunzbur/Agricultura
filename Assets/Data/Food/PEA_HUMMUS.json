@@ -1,0 +1,20 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "PEAS",
+      "CHICKPEAS",
+      "GINGER"
+    ]
+  },
+  "RecipeFurniture": "MIXER",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "PEA_HUMMUS",
+  "Name": "Peas Hummus",
+  "Description": "A hummus made with cooked green peas",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/peas-hummus.png",
+  "Price": 8
+}

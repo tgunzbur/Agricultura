@@ -1,0 +1,10 @@
+{
+  "$type": "Agricultura.Data.HouseFurnitureData, Assembly-CSharp",
+  "SubType": 0,
+  "Type": 3,
+  "Id": "SEED_CREATOR",
+  "Name": "Seed Creator",
+  "Description": "",
+  "IconPath": "Assets/Sprites/FurnitureIcons/plant_stall.png",
+  "Price": 2
+}

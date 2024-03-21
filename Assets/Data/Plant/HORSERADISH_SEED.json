@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "CARROT_SEED",
+      "RADISH_SEED"
+    ]
+  },
+  "ResultFoodId": "HORSERADISH",
+  "GrowthTime": 15,
+  "Rarity": 1,
+  "Type": 1,
+  "Id": "HORSERADISH_SEED",
+  "Name": "Horseradish Seed",
+  "Description": "A pungent and spicy root vegetable often used as a condiment.",
+  "IconPath": "Assets/Sprites/SeedIcons/horse_radish_seed.png",
+  "Price": 4
+}

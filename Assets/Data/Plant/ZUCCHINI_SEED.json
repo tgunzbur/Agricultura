@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "EGGPLANT_SEED",
+      "CUCUMBER_SEED"
+    ]
+  },
+  "ResultFoodId": "ZUCCHINI",
+  "GrowthTime": 15,
+  "Rarity": 3,
+  "Type": 1,
+  "Id": "ZUCCHINI_SEED",
+  "Name": "Zucchini Seed",
+  "Description": "A versatile summer squash with a mild flavor and tender texture.",
+  "IconPath": "Assets/Sprites/SeedIcons/zucchini_seed.png",
+  "Price": 2
+}

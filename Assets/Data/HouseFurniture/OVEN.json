@@ -1,0 +1,12 @@
+{
+  "$type": "Agricultura.Data.CookStationData, Assembly-CSharp",
+  "NeededClicks": 4,
+  "InventorySize": 4,
+  "SubType": 0,
+  "Type": 3,
+  "Id": "OVEN",
+  "Name": "Oven",
+  "Description": "",
+  "IconPath": "Assets/Sprites/FurnitureIcons/oven.png",
+  "Price": 45
+}

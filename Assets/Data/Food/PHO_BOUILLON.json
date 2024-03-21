@@ -1,0 +1,21 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "GINGER",
+      "ONION",
+      "BEEF_STOCK",
+      "NUOC_MAM"
+    ]
+  },
+  "RecipeFurniture": "SAUCE_PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "PHO_BOUILLON",
+  "Name": "Pho Bouillon",
+  "Description": "A concentrated broth used to make pho soup.",
+  "IconPath": "Assets/Sprites/FoodIcons/Ingredients/pho-bouillon.png",
+  "Price": 9
+}

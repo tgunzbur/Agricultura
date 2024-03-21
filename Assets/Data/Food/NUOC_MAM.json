@@ -1,0 +1,16 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "RecipeFurniture": "",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "NUOC_MAM",
+  "Name": "Nuoc Mam",
+  "Description": "A Vietnamese fish sauce made from anchovies, salt, and water.",
+  "IconPath": "Assets/Sprites/FoodIcons/Ingredients/nuoc-mam.png",
+  "Price": 2
+}

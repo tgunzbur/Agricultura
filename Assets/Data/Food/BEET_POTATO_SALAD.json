@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "BEET",
+      "POTATO"
+    ]
+  },
+  "RecipeFurniture": "CUTTING_BOARD",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "BEET_POTATO_SALAD",
+  "Name": "Beet and Potato Salad",
+  "Description": "A salad with beets, potatoes, greens, and a vinaigrette dressing.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/beet-potato-salad.png",
+  "Price": 7
+}

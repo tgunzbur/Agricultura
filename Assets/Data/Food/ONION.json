@@ -1,0 +1,16 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "RecipeFurniture": "",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "ONION",
+  "Name": "Onion",
+  "Description": "A bulbous vegetable commonly used in cooking.",
+  "IconPath": "Assets/Sprites/FoodIcons/Vegtables/onion.png",
+  "Price": 2
+}

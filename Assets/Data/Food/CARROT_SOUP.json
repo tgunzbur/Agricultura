@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "MILK",
+      "CARROT"
+    ]
+  },
+  "RecipeFurniture": "MIXER",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "CARROT_SOUP",
+  "Name": "Carrot Soup",
+  "Description": "Comforting soup made with carrots.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/carrot_soup.png",
+  "Price": 3
+}

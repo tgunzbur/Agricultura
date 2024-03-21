@@ -1,0 +1,18 @@
+{
+  "$type": "Agricultura.Data.StallData, Assembly-CSharp",
+  "SellableItems": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "MISO",
+      "NUOC_MAM",
+      "WATER",
+      "EGG"
+    ]
+  },
+  "Type": 4,
+  "Id": "GROCERY_STALL",
+  "Name": "Grocery Stall",
+  "Description": "",
+  "IconPath": "Assets/Sprites/FurnitureIcons/special_food_stall.png",
+  "Price": 2
+}

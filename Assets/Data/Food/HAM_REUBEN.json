@@ -1,0 +1,21 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "HORSERADISH_SAUCE",
+      "PORK",
+      "BREAD",
+      "CHEESE"
+    ]
+  },
+  "RecipeFurniture": "CUTTING_BOARD",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "HAM_REUBEN",
+  "Name": "Ham Reuben",
+  "Description": "A type of sandwich made with rye bread, Swiss cheese, sauerkraut, and either ham or corned beef.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/ham-reuben-sandwich.png",
+  "Price": 14
+}

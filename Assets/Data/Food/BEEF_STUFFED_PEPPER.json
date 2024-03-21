@@ -1,0 +1,20 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "PEPPER",
+      "BEEF",
+      "ONION"
+    ]
+  },
+  "RecipeFurniture": "OVEN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "BEEF_STUFFED_PEPPER",
+  "Name": "Beef stuffed Peppers",
+  "Description": "Bell peppers stuffed with ground beef, rice, and cheese.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/beef-stuffed-pepper.png",
+  "Price": 15
+}

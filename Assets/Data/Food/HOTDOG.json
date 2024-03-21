@@ -1,0 +1,20 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "BREAD",
+      "SAUSAGE",
+      "KETCHUP"
+    ]
+  },
+  "RecipeFurniture": "CUTTING_BOARD",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "HOTDOG",
+  "Name": "Hotdog",
+  "Description": "A cooked sausage, typically served in a bun and topped with condiments such as ketchup.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/hot-dog.png",
+  "Price": 6
+}

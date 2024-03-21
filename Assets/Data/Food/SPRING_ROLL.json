@@ -1,0 +1,21 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "RICE_PAPER",
+      "CARROT",
+      "LETTUCE",
+      "RICE_NOODLE"
+    ]
+  },
+  "RecipeFurniture": "CUTTING_BOARD",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "SPRING_ROLL",
+  "Name": "Spring Roll",
+  "Description": "a thin and crispy Chinese pastry filled with vegetables",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/spring-rolls.png",
+  "Price": 12
+}

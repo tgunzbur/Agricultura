@@ -1,0 +1,21 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "TOMATO",
+      "PEPPER",
+      "CUCUMBER",
+      "ONION"
+    ]
+  },
+  "RecipeFurniture": "MIXER",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "GASPACHO",
+  "Name": "Gaspacho",
+  "Description": "Cold soup made with raw vegetables",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/gaspacho.png",
+  "Price": 7
+}

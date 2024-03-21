@@ -1,0 +1,21 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "MISO_SOUP",
+      "NOODLE",
+      "PAKCHOI",
+      "BEEF"
+    ]
+  },
+  "RecipeFurniture": "SAUCE_PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "RAMEN",
+  "Name": "Ramen",
+  "Description": "A Japanese dish made with noodles and broth",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/ramen.png",
+  "Price": 26
+}

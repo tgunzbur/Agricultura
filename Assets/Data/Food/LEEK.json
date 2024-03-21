@@ -1,0 +1,16 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "RecipeFurniture": "",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "LEEK",
+  "Name": "Leek",
+  "Description": "A vegetable related to onions and garlic, often used in soups and stews.",
+  "IconPath": "Assets/Sprites/FoodIcons/Vegtables/leek.png",
+  "Price": 2
+}

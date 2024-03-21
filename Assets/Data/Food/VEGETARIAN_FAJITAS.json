@@ -1,0 +1,21 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "TORTILLA",
+      "PEPPER",
+      "BEAN",
+      "GUACAMOLE"
+    ]
+  },
+  "RecipeFurniture": "CUTTING_BOARD",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "VEGETARIAN_FAJITAS",
+  "Name": "Vegetarian Fajitas",
+  "Description": "a dish made with grilled or sautéed vegetables, commonly served with tortillas and toppings.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/fajitas.png",
+  "Price": 13
+}

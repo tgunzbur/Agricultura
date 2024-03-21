@@ -1,0 +1,12 @@
+{
+  "$type": "Agricultura.Data.CookStationData, Assembly-CSharp",
+  "NeededClicks": 4,
+  "InventorySize": 4,
+  "SubType": 0,
+  "Type": 3,
+  "Id": "CUTTING_BOARD",
+  "Name": "Cutting Board",
+  "Description": "",
+  "IconPath": "Assets/Sprites/FurnitureIcons/cutting-board.png",
+  "Price": 2
+}

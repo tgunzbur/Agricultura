@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "CARROT_SEED",
+      "TOMATO_SEED"
+    ]
+  },
+  "ResultFoodId": "BEET",
+  "GrowthTime": 15,
+  "Rarity": 1,
+  "Type": 1,
+  "Id": "BEET_SEED",
+  "Name": "Beet Seed",
+  "Description": "A sweet and earthy root vegetable with a vibrant red color.",
+  "IconPath": "Assets/Sprites/SeedIcons/bett_seed.png",
+  "Price": 2
+}

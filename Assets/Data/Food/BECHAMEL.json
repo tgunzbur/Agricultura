@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "MILK",
+      "BUTTER"
+    ]
+  },
+  "RecipeFurniture": "SAUCE_PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "BECHAMEL",
+  "Name": "Bechamel",
+  "Description": "A white sauce made with butter, flour, and milk.",
+  "IconPath": "Assets/Sprites/FoodIcons/Ingredients/bechamel.png",
+  "Price": 3
+}

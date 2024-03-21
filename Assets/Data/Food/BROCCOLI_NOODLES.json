@@ -1,0 +1,20 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "BROCCOLI",
+      "NOODLE",
+      "MUSHROOM"
+    ]
+  },
+  "RecipeFurniture": "PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "BROCCOLI_NOODLES",
+  "Name": "Broccoli Noodles",
+  "Description": "Noodles made from broccoli florets.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/broccoli-noodles.png",
+  "Price": 14
+}

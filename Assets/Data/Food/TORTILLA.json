@@ -1,0 +1,20 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "FLOUR",
+      "CORN_FLOUR",
+      "WATER"
+    ]
+  },
+  "RecipeFurniture": "PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "TORTILLA",
+  "Name": "Tortilla",
+  "Description": "a type of thin, unleavened flatbread made from corn or wheat flour, commonly used in Mexican cuisine.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/tortilla.png",
+  "Price": 2
+}

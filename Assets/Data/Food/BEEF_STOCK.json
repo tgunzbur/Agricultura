@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "WATER",
+      "BEEF"
+    ]
+  },
+  "RecipeFurniture": "SAUCE_PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "BEEF_STOCK",
+  "Name": "Beef Stock",
+  "Description": "A liquid made by simmering beef bones, vegetables, and herbs",
+  "IconPath": "Assets/Sprites/FoodIcons/Ingredients/beef_stock.png",
+  "Price": 3
+}

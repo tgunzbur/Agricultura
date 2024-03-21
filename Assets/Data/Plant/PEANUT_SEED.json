@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "BEAN_SEED",
+      "POTATO_SEED"
+    ]
+  },
+  "ResultFoodId": "PEANUT",
+  "GrowthTime": 15,
+  "Rarity": 4,
+  "Type": 1,
+  "Id": "PEANUT_SEED",
+  "Name": "Peanut Seed",
+  "Description": "A nutritious legume with a mild and nutty flavor that is commonly used in snacks and desserts.",
+  "IconPath": "Assets/Sprites/SeedIcons/peanut_seed.png",
+  "Price": 3
+}

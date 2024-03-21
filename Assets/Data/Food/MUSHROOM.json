@@ -1,0 +1,16 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "RecipeFurniture": "",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "MUSHROOM",
+  "Name": "Mushroom",
+  "Description": "A type of edible fungus that can be used in a variety of dishes.",
+  "IconPath": "Assets/Sprites/FoodIcons/Vegtables/mushroom.png",
+  "Price": 3
+}

@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "GINGER_SEED",
+      "HORSERADISH_SEED"
+    ]
+  },
+  "ResultFoodId": "MUSHROOM",
+  "GrowthTime": 15,
+  "Rarity": 3,
+  "Type": 1,
+  "Id": "MUSHROOM_SEED",
+  "Name": "Mushroom Seed",
+  "Description": "A fleshy and earthy-tasting fungi that comes in a variety of shapes and sizes.",
+  "IconPath": "Assets/Sprites/SeedIcons/mushroom_seed.png",
+  "Price": 4
+}

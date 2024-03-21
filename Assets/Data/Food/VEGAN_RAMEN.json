@@ -1,0 +1,21 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "MISO_SOUP",
+      "NOODLE",
+      "PAKCHOI",
+      "TOFU"
+    ]
+  },
+  "RecipeFurniture": "SAUCE_PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "VEGAN_RAMEN",
+  "Name": "Vegan Ramen",
+  "Description": "a plant-based version of the Japanese noodle soup.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/vegetarian-ramens.png",
+  "Price": 19
+}

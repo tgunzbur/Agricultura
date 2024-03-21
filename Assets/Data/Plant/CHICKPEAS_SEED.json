@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "BEAN_SEED",
+      "PEAS_SEED"
+    ]
+  },
+  "ResultFoodId": "CHICKPEAS",
+  "GrowthTime": 15,
+  "Rarity": 3,
+  "Type": 1,
+  "Id": "CHICKPEAS_SEED",
+  "Name": "Chickpeas Seed",
+  "Description": "A nutty and nutritious legume that is commonly used in Mediterranean and Middle Eastern cuisine.",
+  "IconPath": "Assets/Sprites/SeedIcons/chick_peas_seed.png",
+  "Price": 2
+}

@@ -1,0 +1,16 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "RecipeFurniture": "",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "MISO",
+  "Name": "Miso",
+  "Description": "A traditional Japanese seasoning made from fermented soybeans, salt, and koji",
+  "IconPath": "Assets/Sprites/FoodIcons/Ingredients/miso.png",
+  "Price": 4
+}

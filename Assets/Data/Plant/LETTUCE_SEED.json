@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "CUCUMBER_SEED",
+      "BROCCOLI_SEED"
+    ]
+  },
+  "ResultFoodId": "LETTUCE",
+  "GrowthTime": 15,
+  "Rarity": 4,
+  "Type": 1,
+  "Id": "LETTUCE_SEED",
+  "Name": "Lettuce_seed",
+  "Description": "A leafy green vegetable that comes in many varieties and is commonly used as a base for salads.",
+  "IconPath": "Assets/Sprites/SeedIcons/lettuce_seed.png",
+  "Price": 0
+}

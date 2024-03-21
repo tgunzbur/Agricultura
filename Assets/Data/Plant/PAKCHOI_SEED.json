@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "LETTUCE_SEED",
+      "WHITE_CABBAGE_SEED"
+    ]
+  },
+  "ResultFoodId": "PAKCHOI",
+  "GrowthTime": 15,
+  "Rarity": 5,
+  "Type": 1,
+  "Id": "PAKCHOI_SEED",
+  "Name": "Pakchoi Seed",
+  "Description": "A leafy green vegetable with a crunchy texture and a slightly sweet taste, commonly used in Asian cuisine.",
+  "IconPath": "Assets/Sprites/SeedIcons/pak_choi_seed.png",
+  "Price": 4
+}

@@ -1,0 +1,22 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "BEEF",
+      "RICE_NOODLE",
+      "SOY",
+      "CARROT",
+      "NUOC_MAM"
+    ]
+  },
+  "RecipeFurniture": "PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "BOBUN",
+  "Name": "Bobun",
+  "Description": "A Vietnamese noodle dish with meat, vegetables, and herbs",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/bobun.png",
+  "Price": 21
+}

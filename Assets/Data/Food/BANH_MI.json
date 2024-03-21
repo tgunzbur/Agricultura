@@ -1,0 +1,21 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "BREAD",
+      "CHICKEN",
+      "CARROT",
+      "CUCUMBER"
+    ]
+  },
+  "RecipeFurniture": "CUTTING_BOARD",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "BANH_MI",
+  "Name": "Banh Mi",
+  "Description": "A Vietnamese sandwich typically filled with meat, pickled vegetables, and chili sauce.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/banh-mi.png",
+  "Price": 8
+}

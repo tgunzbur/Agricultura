@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "BEET_SEED",
+      "EGGPLANT_SEED"
+    ]
+  },
+  "ResultFoodId": "AVOCADO",
+  "GrowthTime": 15,
+  "Rarity": 3,
+  "Type": 1,
+  "Id": "AVOCADO_SEED",
+  "Name": "Avocado Seed",
+  "Description": "A creamy and nutritious fruit with a buttery texture and mild flavor.",
+  "IconPath": "Assets/Sprites/SeedIcons/avocado_seed.png",
+  "Price": 6
+}

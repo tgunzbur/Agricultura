@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "CORN",
+      "CORN"
+    ]
+  },
+  "RecipeFurniture": "MIXER",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "CORN_FLOUR",
+  "Name": "Corn Flour",
+  "Description": "Flour made from ground corn",
+  "IconPath": "Assets/Sprites/FoodIcons/Ingredients/corn-flour.png",
+  "Price": 2
+}

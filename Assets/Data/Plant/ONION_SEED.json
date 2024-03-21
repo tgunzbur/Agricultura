@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "RADISH_SEED",
+      "TOMATO_SEED"
+    ]
+  },
+  "ResultFoodId": "ONION",
+  "GrowthTime": 15,
+  "Rarity": 2,
+  "Type": 1,
+  "Id": "ONION_SEED",
+  "Name": "Onion Seed",
+  "Description": "A pungent and flavorful bulb vegetable that comes in different colors and varieties.",
+  "IconPath": "Assets/Sprites/SeedIcons/onion_seed.png",
+  "Price": 3
+}

@@ -1,0 +1,21 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "MISO",
+      "VEGETABLES_BROTH",
+      "GINGER",
+      "SOY_SAUCE"
+    ]
+  },
+  "RecipeFurniture": "SAUCE_PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "MISO_SOUP",
+  "Name": "Miso_soup",
+  "Description": "A soup made from miso paste, dashi (fish broth), and various ingredients such as tofu, seaweed, and green onions.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/miso-soup.png",
+  "Price": 13
+}

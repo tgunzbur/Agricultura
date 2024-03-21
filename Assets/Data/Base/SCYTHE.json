@@ -1,0 +1,9 @@
+{
+  "$type": "Agricultura.Data.BaseData, Assembly-CSharp",
+  "Type": 0,
+  "Id": "SCYTHE",
+  "Name": "Scythe",
+  "Description": "",
+  "IconPath": "Assets/Sprites/UI/Icons/scythe.png",
+  "Price": 2
+}

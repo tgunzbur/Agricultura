@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "ARTICHOKE_SEED",
+      "LETTUCE_SEED"
+    ]
+  },
+  "ResultFoodId": "WHITE_CABBAGE",
+  "GrowthTime": 15,
+  "Rarity": 4,
+  "Type": 1,
+  "Id": "WHITE_CABBAGE_SEED",
+  "Name": "White Cabbage Seed",
+  "Description": "A crunchy and nutritious vegetable with a mild flavor that is commonly used in coleslaw and other dishes.",
+  "IconPath": "Assets/Sprites/SeedIcons/white_cabbage_seed.png",
+  "Price": 4
+}

@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "ONION_SEED",
+      "POTATO_SEED"
+    ]
+  },
+  "ResultFoodId": "GINGER",
+  "GrowthTime": 15,
+  "Rarity": 2,
+  "Type": 1,
+  "Id": "GINGER_SEED",
+  "Name": "Ginger Seed",
+  "Description": "A fragrant and spicy root that adds depth of flavor to dishes and is also used for medicinal purposes.",
+  "IconPath": "Assets/Sprites/SeedIcons/ginger_seed.png",
+  "Price": 7
+}

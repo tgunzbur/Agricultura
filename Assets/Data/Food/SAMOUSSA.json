@@ -1,0 +1,20 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "DOUGH",
+      "ZUCCHINI",
+      "CARROT"
+    ]
+  },
+  "RecipeFurniture": "PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "SAMOUSSA",
+  "Name": "Samoussa",
+  "Description": "a fried or baked pastry originating from India, filled with spiced vegetables",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/samoussa.png",
+  "Price": 8
+}

@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "ARTICHOKE_SEED",
+      "ASPARAGUS_SEED"
+    ]
+  },
+  "ResultFoodId": "BROCCOLI",
+  "GrowthTime": 15,
+  "Rarity": 4,
+  "Type": 1,
+  "Id": "BROCCOLI_SEED",
+  "Name": "Broccoli Seed",
+  "Description": "A cruciferous vegetable with a dense cluster of green flower buds and a mildly bitter taste.",
+  "IconPath": "Assets/Sprites/SeedIcons/broccoli_seed.png",
+  "Price": 3
+}

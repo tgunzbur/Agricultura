@@ -1,0 +1,20 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "POTATO",
+      "BEEF",
+      "CORN"
+    ]
+  },
+  "RecipeFurniture": "OVEN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "PATE_CHINOIS",
+  "Name": "Paté Chinois",
+  "Description": "A French-Canadian dish consisting of a layer of ground beef, a layer of corn, and a layer of mashed potatoes.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/pate-chinois.png",
+  "Price": 12
+}

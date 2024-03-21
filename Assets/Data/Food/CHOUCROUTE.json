@@ -1,0 +1,21 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "WHITE_CABBAGE",
+      "PORK",
+      "SAUSAGE",
+      "POTATO"
+    ]
+  },
+  "RecipeFurniture": "SAUCE_PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "CHOUCROUTE",
+  "Name": "Choucroute",
+  "Description": "Alsatian dish of sauerkraut and sausages",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/choucroute.png",
+  "Price": 15
+}

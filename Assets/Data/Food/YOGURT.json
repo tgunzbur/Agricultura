@@ -1,0 +1,16 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "RecipeFurniture": "",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "YOGURT",
+  "Name": "Yogurt",
+  "Description": "a dairy product made from milk fermented with bacteria",
+  "IconPath": "Assets/Sprites/FoodIcons/Ingredients/yogurt.png",
+  "Price": 2
+}

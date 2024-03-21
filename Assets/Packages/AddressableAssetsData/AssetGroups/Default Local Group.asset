@@ -1,0 +1,701 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 21609a2b003b3104897ac56850e05ffd
+  m_SerializeEntries:
+  - m_GUID: 421cb7a18d898b84da8c0baff27bb885
+    m_Address: Assets/Sprites/SeedIcons/artichoke_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a8811046531206478ca34e5b976b382
+    m_Address: Assets/Sprites/SeedIcons/broccoli_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45c8e67a6ecde6d458c54ee09e3da72d
+    m_Address: Assets/Sprites/SeedIcons/asparagus_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20f01355de58f1b478345efbca1a45bf
+    m_Address: Assets/Sprites/SeedIcons/bett_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ac42fba501768a41bee317cb0f99e80
+    m_Address: Assets/Sprites/SeedIcons/horse_radish_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85f17a68814d2284c93d39f866766535
+    m_Address: Assets/Sprites/SeedIcons/eggplant_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17abdb9f83bbb3c44bf2362ee6101182
+    m_Address: Assets/Sprites/SeedIcons/zucchini_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b5d32dc2fec6a24eaad5bb7caf6708f
+    m_Address: Assets/Sprites/SeedIcons/tomato_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 925060917b6dd7a4b8aa31461d7bbc09
+    m_Address: Assets/Sprites/SeedIcons/wheat_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64f05934e186f34438effb8c82ebe92c
+    m_Address: Assets/Sprites/SeedIcons/corn_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 194cfac49fe016e4bb73ba4970c54b0d
+    m_Address: Assets/Sprites/SeedIcons/leek_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a87acbb03c5d4740aa3a90cf09abdd3
+    m_Address: Assets/Sprites/SeedIcons/radish_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c77b40dca5b5b844a898712987da465
+    m_Address: Assets/Sprites/SeedIcons/potato_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f0996189299ad94c9cb049e790818a7
+    m_Address: Assets/Sprites/SeedIcons/pepper_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 46f60218d7da59a4db8e3b11bb068357
+    m_Address: Assets/Sprites/SeedIcons/onion_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b8df07ec04e955c42a5420e7b5d13a9d
+    m_Address: Assets/Sprites/SeedIcons/peas_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8a63d1e2b24e7f4bb3fd4cf80764943
+    m_Address: Assets/Sprites/SeedIcons/ginger_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b270dbcf09e2a34d8b3a4cde3d1b7e9
+    m_Address: Assets/Sprites/SeedIcons/carrot_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8dc6ae360cd082d4aba130fd28786a3e
+    m_Address: Assets/Sprites/SeedIcons/cucumber_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1b0d9008a6b2c4049ae12cc1286d0e93
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/broccoli.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ac47ccb699e43c4aa95eb507f87e01f
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/avocado.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60230a7b66abb5c4ebb120cfe90fa196
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/peanut.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 655a0726d9435eb40a983f9dd025997c
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/rice.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ecd90b16eccb22a4d987c9ad5c4b1b50
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/artichoke.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f975d585db50ed8488d68bd4f9d4a0e0
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/zucchini.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3dda3540ae1314440b1083190369a36d
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/potato.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 326398232cc215243b05b03b944e5f28
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/pepper.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad81a582af76b1548b454f627beb1352
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/onion.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c4a829848bf26d449f8b7a951161b4c
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/chickpeas.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71051537f6c8b9b4285c4c16fe3f09f5
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/lettuce.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1b9c122b3a4b06542ac2076dfafe6b48
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/cucumber.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 749b53c64a9a9784ba7f5448421c5909
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/mushroom.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1099c66aad115bf48a5d2d41e7dbc62c
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/chilli-pepper.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0297b26f5f62206418c3f9a27f110d6e
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/white-cabbage.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9ec079a14ace5f4fbca6589fd19542b
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/asparagus.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b3c5dee2bd791ad469d72824cb3ae2bf
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/bean.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85dbf8e84fc56094faf19bf6d3deef3f
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/soy.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5262da2db2711e439cbe838c0b25dc6
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/celery.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 245691fc8a4c6114bb8e4d6630b6d208
+    m_Address: Assets/Sprites/FoodIcons/unknown_mixture.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f2fea82006a8454ab6149a8d71fa2ff
+    m_Address: Assets/Sprites/FoodIcons/Dishes/carrot_cake.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d8cf0d494536b149b0b958ed4ec5af4
+    m_Address: Assets/Sprites/FurnitureIcons/plant_stall.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba48822c8a836454c84e1dbc0d6b8123
+    m_Address: Assets/Sprites/FurnitureIcons/oven.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a07fbd36c56ee2649be43466f566f3b9
+    m_Address: Assets/Sprites/FurnitureIcons/furniture_stall.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 053cd4447258aae40a6ec048094cdf34
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/flour.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9222ddeeb3f66254fb4b8c909055208b
+    m_Address: Assets/Sprites/FurnitureIcons/mixing_bowl.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e77097ac0e429cb44a863ac18025d6b1
+    m_Address: Assets/Sprites/FoodIcons/Dishes/potato_salad.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5fede7d99c003c04c9b73adb7be87ab0
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/tomato-sauce.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5ab3224f9f214b4e8d101a2e2c097f8
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/egg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 043ae17784e2a1e42be004c2ad9941c9
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/sugar.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2468e0640a856d9408f7a667131932b2
+    m_Address: Assets/Sprites/FoodIcons/Dishes/tortilla.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ee0679bdc859cb64db5624b78e63d6c4
+    m_Address: Assets/Sprites/FoodIcons/Dishes/banh-mi.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a693dbefb5c59e4fa791495b7d47cb2
+    m_Address: Assets/Sprites/FoodIcons/Dishes/broccoli-noodles.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18d318871956f2f40ba7a1e69d72ba32
+    m_Address: Assets/Sprites/FoodIcons/Dishes/bobun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 555d7ba1b3642d644bad46dd5e14259c
+    m_Address: Assets/Sprites/FoodIcons/Dishes/bibimbap.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6351bdd40b5292d44ae7f6ff107b3844
+    m_Address: Assets/Sprites/FoodIcons/Dishes/artichoke-pasta.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ae0c3fcbfaee6744b0e717cb8e9bd78
+    m_Address: Assets/Sprites/FoodIcons/Dishes/asparagus-and-peas-saute.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc19e69218030b2498d12afca5fd4b62
+    m_Address: Assets/Sprites/FoodIcons/Dishes/arancini.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8753f1c1595f0e24796d0c32b9f508d8
+    m_Address: Assets/Sprites/FoodIcons/Dishes/bread.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 34719af2a4b76564a98591daaec302e7
+    m_Address: Assets/Sprites/FoodIcons/Dishes/cheeseburger.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff8897f35572da3468768ab0fe068805
+    m_Address: Assets/Sprites/FoodIcons/Dishes/chili-con-carne.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd2dec68d8c9c844fad2bbe86554ceb9
+    m_Address: Assets/Sprites/FoodIcons/Dishes/beet-chips.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a8107e40627acb4da9dda2313f3bfb4
+    m_Address: Assets/Sprites/FoodIcons/Dishes/choucroute.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd2347de1d5bf154589a24a5f36306fb
+    m_Address: Assets/Sprites/FoodIcons/Dishes/fajitas.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76e7c19dbb4b03249a82cb68dd4aa896
+    m_Address: Assets/Sprites/FoodIcons/Dishes/falafel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fcd1e87d175bef6438beb60f46f131a5
+    m_Address: Assets/Sprites/FoodIcons/Dishes/fries.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84961beb0a9b7f04683474506c16eee5
+    m_Address: Assets/Sprites/FoodIcons/Dishes/gaspacho.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db021ed02bb48c34ca2372af39d3eda2
+    m_Address: Assets/Sprites/FoodIcons/Dishes/gnocchi.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 149596fb399deaa4e9ce965a3e133405
+    m_Address: Assets/Sprites/FoodIcons/Dishes/greek-salad.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca1fd55bcaa2c084f9b85ee060a2bf6c
+    m_Address: Assets/Sprites/FoodIcons/Dishes/guacamole.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd8f014be95f68f40856daa18081ea55
+    m_Address: Assets/Sprites/FoodIcons/Dishes/gyoza.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ebb974054c6f61b4bb034672be57729d
+    m_Address: Assets/Sprites/FoodIcons/Dishes/ham-reuben-sandwich.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f946912257f764b4597ad764998137af
+    m_Address: Assets/Sprites/FoodIcons/Dishes/hot-dog.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f2bfa710310d7f4c87689e57a44b2da
+    m_Address: Assets/Sprites/FoodIcons/Dishes/hummus.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62d32871c12ec2d409b81e58aaf1ee37
+    m_Address: Assets/Sprites/FoodIcons/Dishes/lasagne.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1d19ced10091584c93e121906e2b2ed
+    m_Address: Assets/Sprites/FoodIcons/Dishes/mac-and-cheese.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 69e94589566e253409e44509cdd69b48
+    m_Address: Assets/Sprites/FoodIcons/Dishes/miso-soup.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95ffbe9b1a9b9e447ba5fe6c5f4caf2b
+    m_Address: Assets/Sprites/FoodIcons/Dishes/cheese-naan.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11f8cb7667aee854cb95680d8de03588
+    m_Address: Assets/Sprites/FoodIcons/Dishes/noodles.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91cd6c79785888148b9dd08952fc1bed
+    m_Address: Assets/Sprites/FoodIcons/Dishes/pad-thai.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1184d8d24cc6a904288b0d7e43543e57
+    m_Address: Assets/Sprites/FoodIcons/Dishes/paella.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 371a5f4e0986fe54a9c763bea4ded2ff
+    m_Address: Assets/Sprites/FoodIcons/Dishes/peas-hummus.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 06093833edcfcf54ebc8aa6f4b6b3ba2
+    m_Address: Assets/Sprites/FoodIcons/Dishes/peas-soup.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 99fe93610c3fa184aaab31e513e1e4f8
+    m_Address: Assets/Sprites/FoodIcons/Dishes/pho.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 147df1ec2ab119e41a3faf92da240c16
+    m_Address: Assets/Sprites/FoodIcons/Dishes/pizza.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21d58e00fe7ce5740881761a65b59107
+    m_Address: Assets/Sprites/FoodIcons/Dishes/pop-corn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5554ce26fdce68f4c98188a7544a107f
+    m_Address: Assets/Sprites/FoodIcons/Dishes/potato-tortilla.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7234ecf2883820044baf4479ab18beed
+    m_Address: Assets/Sprites/FoodIcons/Dishes/poutine.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26c2feef233e4b04c8bc20f3f0776464
+    m_Address: Assets/Sprites/FoodIcons/Dishes/artichoke-quiche.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64126f49fe861ee46849d884c385719f
+    m_Address: Assets/Sprites/FoodIcons/Dishes/ramen.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a74b154111cc7a546aa1b4fc9b1bb009
+    m_Address: Assets/Sprites/FoodIcons/Dishes/ratatouille.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ea711314b93e34449cd15c7db2ae7d2
+    m_Address: Assets/Sprites/FoodIcons/Dishes/rice-noodles.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5949fb53187826478b0bce7d62673ef
+    m_Address: Assets/Sprites/FoodIcons/Dishes/risotto.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8187b7940d2fa2e46b93e44390a49b3a
+    m_Address: Assets/Sprites/FoodIcons/Dishes/rostis.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d63095c111aa1f14e86e84b51e0887f5
+    m_Address: Assets/Sprites/FoodIcons/Dishes/samoussa.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ac254647dc4f1e43ac852bcf7320139
+    m_Address: Assets/Sprites/FoodIcons/Dishes/shakshuka.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e01765dd38cea5549a6a8918e7cb0414
+    m_Address: Assets/Sprites/FoodIcons/Dishes/spring-rolls.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 55d328cb21fbeb742b739c8df7b86823
+    m_Address: Assets/Sprites/FoodIcons/Dishes/taco.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e3e7874705c4374bb5fbc6cf20d452a
+    m_Address: Assets/Sprites/FoodIcons/Dishes/tamal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 472359db0679ecb49b52b1c6f2234906
+    m_Address: Assets/Sprites/FoodIcons/Dishes/tzatziki.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a7051ec64a35bb48afa9a342ece8047
+    m_Address: Assets/Sprites/FoodIcons/Dishes/vegetable-soup.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a3d4f6e15eaad6743b005c724479aba8
+    m_Address: Assets/Sprites/FoodIcons/Dishes/vegetarian-burger.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5dc243ffd731a004294e678c32d903ba
+    m_Address: Assets/Sprites/FoodIcons/Dishes/vegetarian-ramens.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c8a4179feca8c064c80d80355ad2cbd6
+    m_Address: Assets/Sprites/FoodIcons/Dishes/vegetarian-risotto.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5eb3c0613b89fc4ea22a2a057e49362
+    m_Address: Assets/Sprites/FoodIcons/Dishes/moussaka.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cab8ef4a6a049d045b61961416431f4d
+    m_Address: Assets/Sprites/FoodIcons/Dishes/pate-chinois.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f565124462de064aa83e0ddfeeedcfa
+    m_Address: Assets/Sprites/FoodIcons/Dishes/goulash.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c2e39d66ffadf7428344107cc0862ce
+    m_Address: Assets/Sprites/FoodIcons/Dishes/beet-potato-salad.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d96b57672b3a668409762036d298b48e
+    m_Address: Assets/Sprites/FoodIcons/Dishes/peas-and-carrot.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 688693b81a23fd440826de8ca5c31074
+    m_Address: Assets/Sprites/FoodIcons/Dishes/beef-stuffed-pepper.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87fb202e9dccb4b4daf2560f46bef308
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/radish.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57181e654cf38b54e9f8d49dcd8b36b5
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/corn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36079c87fa16b834c9627602c8ffd11e
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/leek.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 657b4cf1e8206f248b8731d11961a415
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/eggplant.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45d86aa927de04f448faa2c1c60ccdf6
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/wheat.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74572dbca9044864ca28dce94bb6d1e6
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/peas.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62f609cd03d6b0347979254af5980697
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/horse_radish.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a192156413044b54e9470217f3487f67
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/tomato.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31399329a990d3c4ca6490dc67fb722e
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/carrot.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 217cc5ebc95f8f445a7677877fff52b0
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/beet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 111878403948e784a842e1e39236f2ee
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/beef.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d97ad09e93841ca4bb6e0cfbbf96e406
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/cheese.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 758db742675044041bfdd6acd0147efc
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/bechamel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 33ffc8d91f6525f4ab31fa303f7bca0c
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/horseradish-sauce.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d3368438bcc02048819bc4a2e7c3542
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/ketchup.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f6adca6e391aa547b3ba6768f9bbb37
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/milk.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ceb9575c5e4c2b40ab942861418cc60
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/water.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51e3741af92f5a24597a6b2bff211b7b
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/nuoc-mam.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24603fbc0a9b921428429edebb874028
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/pasta.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26aea428da56f8b45833dd8bc6fc6d59
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/dough.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66cc77cb91dd2ba4aa3dfb7d903717ec
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/pho-bouillon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ada6c5ba16c8e243be5588a6a39960d
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/pork.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 468f2f083affee445ba041037c0dab6b
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/rice-flour.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e0f725026d1686459d5bf24ea5f19a2
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/rice-paper.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1605ae1eca05e5844a124bea165fcb7f
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/sausage.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ffadf95abe67bcd42b70e359c024ec98
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/soy-milk.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 69a23070aa5d51848a048204f442b7ab
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/soy-sauce.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3cfa061e978f17b4e9034495870e00ef
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/tofu.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15cd55c7d76c948459932fe6a915cd0e
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/bolognese.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38ad9191296a8ab4cb5cdc20e4524145
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/yogurt.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37f9113248d6b2f4599f96e0201c413b
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/corn-flour.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e304fd8f47ae76549900111c9ea6ed69
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/butter.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a022a946ba91d2844b0f6fe40612b804
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/miso.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 402286433974402479ad136ff6a96e82
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/vegan-broth.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 858e4459e13ac724990578a3e8784072
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/chicken.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 305d099979dae5544a06120f01bb9ef2
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/ginger.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 107de917412d696408688228468c4110
+    m_Address: Assets/Sprites/FoodIcons/Dishes/tartiflette.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03aeb6b343e4bb341b7b67bf9db0164e
+    m_Address: Assets/Sprites/FurnitureIcons/special_food_stall.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b88372a5c1023474685cee000ff0798d
+    m_Address: Assets/Sprites/FurnitureIcons/food_stall.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea23285e55a963c4cb56a834ef9b4335
+    m_Address: Assets/Sprites/FurnitureIcons/display_counter.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 037253d62e2991141be850bf31818ed4
+    m_Address: Assets/Sprites/FurnitureIcons/pan.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7727da1843b97b146bc6bf53eb4fd08d
+    m_Address: Assets/Sprites/FurnitureIcons/saucepan.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8dbf91a9dacd7c34f86cc9ab39b293e2
+    m_Address: Assets/Sprites/FurnitureIcons/stall.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 099366ca32416dc4a861cce857a399f3
+    m_Address: Assets/Sprites/FurnitureIcons/cutting-board.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df501e69220da664990fb88457854cd3
+    m_Address: Assets/Sprites/SeedIcons/peanut_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 036c19a12fc9de444ab368699e8879d6
+    m_Address: Assets/Sprites/SeedIcons/lettuce_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f9b286279418a744a61e677aaf50805
+    m_Address: Assets/Sprites/SeedIcons/rice_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb7baa42bbdeda34b9c8e9865705171a
+    m_Address: Assets/Sprites/SeedIcons/bean_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a5f6ec61bbf58b749bed08ae335d0f6c
+    m_Address: Assets/Sprites/SeedIcons/soy_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 757a29ecf58b42d41b372e9cdadb200e
+    m_Address: Assets/Sprites/SeedIcons/chilli_pepper_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83bc94eb51b4fab4085da97e61fce7b3
+    m_Address: Assets/Sprites/SeedIcons/white_cabbage_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67dcbd19db4356c478786b57947813e5
+    m_Address: Assets/Sprites/SeedIcons/celery_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 075b956bc39e33f45808e39d30e2650e
+    m_Address: Assets/Sprites/SeedIcons/chick_peas_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: feb9c8c402e49a94fa63638970f89a51
+    m_Address: Assets/Sprites/SeedIcons/avocado_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e5daa94d9194384996879c3fbb44f60
+    m_Address: Assets/Sprites/SeedIcons/mushroom_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 890470e7d2fa2e64a945094eca760388
+    m_Address: Assets/Sprites/SeedIcons/pak_choi_seed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5bc79e2c22ebef4da85858329be86ee
+    m_Address: Assets/Sprites/FoodIcons/Vegtables/pak_choi.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a619cbe452791644983fdccc46a88b7e
+    m_Address: Assets/Sprites/FoodIcons/Dishes/carrot_soup.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74ccc72be09b8d04cbdb4fe0faf32eab
+    m_Address: Assets/Sprites/FoodIcons/Ingredients/beef_stock.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9edd8a98c6166984bbab95459156d3f1
+    m_Address: Assets/Sprites/UI/Icons/scythe.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 60528ecd2bec6fb498175804cab9017f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 30e5d96f6e2c70f45979ef1f1f475bf6, type: 2}
+    - {fileID: 11400000, guid: 040d0e9516b9e2343ba710fdad3a5a4b, type: 2}

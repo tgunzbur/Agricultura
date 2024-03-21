@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "RICE",
+      "RICE"
+    ]
+  },
+  "RecipeFurniture": "MIXER",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "RICE_FLOUR",
+  "Name": "Rice Flour",
+  "Description": "A type of flour made from ground rice",
+  "IconPath": "Assets/Sprites/FoodIcons/Ingredients/rice-flour.png",
+  "Price": 2
+}

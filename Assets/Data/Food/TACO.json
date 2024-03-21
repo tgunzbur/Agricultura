@@ -1,0 +1,21 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "TORTILLA",
+      "BEEF",
+      "CORN",
+      "BEAN"
+    ]
+  },
+  "RecipeFurniture": "CUTTING_BOARD",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "TACO",
+  "Name": "Taco",
+  "Description": " a Mexican dish consisting of a tortilla filled with various ingredients",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/taco.png",
+  "Price": 9
+}

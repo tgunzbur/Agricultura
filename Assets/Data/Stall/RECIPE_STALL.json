@@ -1,0 +1,13 @@
+{
+  "$type": "Agricultura.Data.StallData, Assembly-CSharp",
+  "SellableItems": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "Type": 4,
+  "Id": "RECIPE_STALL",
+  "Name": "Recipe Stall",
+  "Description": "",
+  "IconPath": "Assets/Sprites/FurnitureIcons/furniture_stall.png",
+  "Price": 2
+}

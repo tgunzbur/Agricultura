@@ -1,0 +1,20 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "PEAS",
+      "POTATO",
+      "ONION"
+    ]
+  },
+  "RecipeFurniture": "SAUCE_PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "PEAS_SOUP",
+  "Name": "Peas Soup",
+  "Description": "A soup made with split peas.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/peas-soup.png",
+  "Price": 5
+}

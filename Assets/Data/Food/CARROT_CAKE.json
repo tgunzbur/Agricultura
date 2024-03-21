@@ -1,0 +1,21 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "CARROT",
+      "EGG",
+      "SUGAR",
+      "FLOUR"
+    ]
+  },
+  "RecipeFurniture": "OVEN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "CARROT_CAKE",
+  "Name": "Carrot Cake",
+  "Description": "A cake made with grated carrots and spices, typically topped with cream cheese frosting",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/carrot_cake.png",
+  "Price": 17
+}

@@ -1,0 +1,20 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "POTATO",
+      "EGG",
+      "ONION"
+    ]
+  },
+  "RecipeFurniture": "PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "POTATO_TORTILLA",
+  "Name": "Potato Tortilla",
+  "Description": "A Spanish dish made with potatoes and eggs",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/potato-tortilla.png",
+  "Price": 8
+}

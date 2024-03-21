@@ -1,0 +1,20 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "TOMATO",
+      "CUCUMBER",
+      "CHEESE"
+    ]
+  },
+  "RecipeFurniture": "CUTTING_BOARD",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "GREEK_SALAD",
+  "Name": "Greek Salad",
+  "Description": "Salad made with tomatoes, cucumber, feta cheese",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/greek-salad.png",
+  "Price": 9
+}

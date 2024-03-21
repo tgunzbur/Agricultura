@@ -1,0 +1,12 @@
+{
+  "$type": "Agricultura.Data.CookStationData, Assembly-CSharp",
+  "NeededClicks": 4,
+  "InventorySize": 4,
+  "SubType": 0,
+  "Type": 3,
+  "Id": "SAUCE_PAN",
+  "Name": "Sauce Pan",
+  "Description": "",
+  "IconPath": "Assets/Sprites/FurnitureIcons/saucepan.png",
+  "Price": 2
+}

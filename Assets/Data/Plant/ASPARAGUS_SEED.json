@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "CARROT_SEED",
+      "CUCUMBER_SEED"
+    ]
+  },
+  "ResultFoodId": "ASPARAGUS",
+  "GrowthTime": 15,
+  "Rarity": 3,
+  "Type": 1,
+  "Id": "ASPARAGUS_SEED",
+  "Name": "Asparagus Seed",
+  "Description": "A slender, green vegetable with a mildly sweet and slightly earthy taste.",
+  "IconPath": "Assets/Sprites/SeedIcons/asparagus_seed.png",
+  "Price": 3
+}

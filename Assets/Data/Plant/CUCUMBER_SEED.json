@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "CARROT_SEED",
+      "PEPPER_SEED"
+    ]
+  },
+  "ResultFoodId": "CUCUMBER",
+  "GrowthTime": 15,
+  "Rarity": 3,
+  "Type": 1,
+  "Id": "CUCUMBER_SEED",
+  "Name": "Cucumber Seed",
+  "Description": "A refreshing and crunchy vegetable with a high water content and mild flavor.",
+  "IconPath": "Assets/Sprites/SeedIcons/cucumber_seed.png",
+  "Price": 3
+}

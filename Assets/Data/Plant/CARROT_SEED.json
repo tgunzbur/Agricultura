@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "TOMATO_SEED",
+      "POTATO_SEED"
+    ]
+  },
+  "ResultFoodId": "CARROT",
+  "GrowthTime": 15,
+  "Rarity": 1,
+  "Type": 1,
+  "Id": "CARROT_SEED",
+  "Name": "Carrot Seed",
+  "Description": "A sweet and crunchy root vegetable that comes in a variety of colors.",
+  "IconPath": "Assets/Sprites/SeedIcons/carrot_seed.png",
+  "Price": 1
+}

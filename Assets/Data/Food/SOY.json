@@ -1,0 +1,16 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "RecipeFurniture": "",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "SOY",
+  "Name": "Soy",
+  "Description": "a versatile and widely used plant-based protein that is commonly found in a variety of vegetarian and vegan dishes",
+  "IconPath": "Assets/Sprites/FoodIcons/Vegtables/soy.png",
+  "Price": 2
+}

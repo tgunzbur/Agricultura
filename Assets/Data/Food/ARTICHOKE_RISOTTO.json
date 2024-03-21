@@ -1,0 +1,20 @@
+{
+  "$type": "Agricultura.Data.FoodData, Assembly-CSharp",
+  "RecipeIngredients": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "ARTICHOKE",
+      "RICE",
+      "CHEESE"
+    ]
+  },
+  "RecipeFurniture": "PAN",
+  "SubType": 2,
+  "NeededCookForAutoCook": 5,
+  "Type": 2,
+  "Id": "ARTICHOKE_RISOTTO",
+  "Name": "Artichoke Risotto",
+  "Description": "A creamy rice dish with artichokes, onions, and Parmesan cheese.",
+  "IconPath": "Assets/Sprites/FoodIcons/Dishes/vegetarian-risotto.png",
+  "Price": 17
+}

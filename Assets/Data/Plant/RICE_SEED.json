@@ -1,0 +1,19 @@
+{
+  "$type": "Agricultura.Data.PlantData, Assembly-CSharp",
+  "Recipe": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "WHEAT_SEED",
+      "POTATO_SEED"
+    ]
+  },
+  "ResultFoodId": "RICE",
+  "GrowthTime": 15,
+  "Rarity": 1,
+  "Type": 1,
+  "Id": "RICE_SEED",
+  "Name": "Rice Seed",
+  "Description": "A staple grain that is widely used in many cultures and cuisines.",
+  "IconPath": "Assets/Sprites/SeedIcons/rice_seed.png",
+  "Price": 2
+}
